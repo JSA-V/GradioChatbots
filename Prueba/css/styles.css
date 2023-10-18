@@ -6,26 +6,26 @@
 }
 h1 {
   margin-bottom: 25px;
-  font-family: Comic Sans MS;
+  font-family: Verdana;
   text-align: center;
   font-size: 175%;
 }
 
 #container {
-  border: 5px solid black;
-  background-color: lightgray;
+  border: 0px solid black;
+  background-color: ;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left:10px;
   margin-right:10px;
 
-  font-family: Comic Sans MS;
+  font-family: Verdana;
   float: left;
 }
 
 #boxTitle {
   border: 3px solid black;
-  background-color: #0c3799;
+  background-color: ;
   width: auto;
   height: auto;
   position: relative;
@@ -34,7 +34,7 @@ h1 {
   right: 5px;   
   font-weight: bold;
   text-align: center;
-  color: white;
+  color: black;
   font-size: 125%;
 }
 
